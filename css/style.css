@@ -1515,6 +1515,9 @@ footer .box .social li a{
     font-size: 20px;
     transition: var(--duration-time);
 }
+footer .box .social li a:hover{
+    color: white;
+}
 footer .box .social .facebook:hover{
     background-color: #1877f2;
 }
