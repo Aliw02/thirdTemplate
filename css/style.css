@@ -148,7 +148,7 @@ ul{
     transform: rotate(45deg);
 }
 .dots-down{
-    bottom: 200px;
+    bottom: 100px;
     left: 0;
 }
 @media (min-width:1200px) {
