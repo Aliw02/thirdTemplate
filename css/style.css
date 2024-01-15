@@ -144,7 +144,7 @@ ul{
 }
 .dots-up{
     top: 200px;
-    right: 0;
+    right: 40;
     transform: rotate(45deg);
 }
 .dots-down{
