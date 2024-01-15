@@ -101,7 +101,7 @@ ul{
 }
 /*! End The First One */
 
-/*^ Start The Secon One */
+/*^ Start The Second One */
 .spik{
     position: relative;
 }
@@ -144,12 +144,12 @@ ul{
 }
 .dots-up{
     top: 200px;
-    right: 0;
+    right: 40;
     transform: rotate(45deg);
 }
 .dots-down{
     bottom: 200px;
-    left: 0;
+    left: 40;
 }
 @media (min-width:1200px) {
     .dots {
